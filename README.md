@@ -1,6 +1,4 @@
-# skill-security-auditor-zl
-# Skill Security Auditor — 特性总结
-
+# skill-security-auditor-zl 特性总结
 ---
 
 ## 是什么
